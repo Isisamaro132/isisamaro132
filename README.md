@@ -2,7 +2,7 @@
 
 Meu nome é isis Amaro
 
--Estou estudando no Alura:
+-Estou estudando no [Alura](https://www.alura.com.br)
 -Estou estudando a linguagem JavaScript
 -Estou utilizando esse espaço para minha organização e comprtilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,5 @@ carvalho.isis@escola.pr.gov.br
 
 @__isisamaro
 
+![](https://media1.tenor.com/m/EeloF6xUk2gAAAAC/hello-kitty-hello-kitty-maromba.gif)
 
-https://media1.tenor.com/m/EeloF6xUk2gAAAAC/hello-kitty-hello-kitty-maromba.gif
